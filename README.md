@@ -98,7 +98,7 @@ String (Default: amd64)
 Specify architecture. Architecture other than the default amd64 can be specified with the `TGENV_ARCH` environment variable
 
 ```console
-TGENV_ARCH=arm tgenv install 0.25.5
+TGENV_ARCH=arm64 tgenv install 0.25.5
 ```
 
 ##### `TGENV_AUTO_INSTALL`
